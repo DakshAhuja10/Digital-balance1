@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin:0;
+    
+}
+
+
+#navbar{
+    height: 100px;
+    background-color: brown;
+    color:white;
+}
+
+#hello{
+    height: 100px;
+    width: 150px;
+}
+#bp{
+    margin-right: 150px;
+}
+
+#te{
+    margin-right: 150px;
+}
+
+#sub{
+    margin-right: 170px;
+}
+body{
+    background-color:orange; 
+    background-image: url(iphone.jpg); 
+    background-size: cover;
+}
+
+#box{
+    margin-top: 60px;
+    margin-left: 500px;
+}
+
+p{
+    color:blue;
+    margin-left: 100px;
+    margin-top: 40px;
+    font-size: 50px;
+    
+}
+
+h4{
+    margin-left:50px ;
+}
+
+h5{
+    color: white;
+    height:20px;
+    
+}
+
+img{
+    margin-right: 150px;
+}
+
+input{
+    background-color: black;
+    size: 100px;
+    height:50px;
+    color: white;
+}
+
+select{
+    background-color: black;
+    color:white;
+}
+
+textarea{
+    background-color: black;
+    color:white;
+}
+
+#bye{
+    background-color:white;
+    width: 50px;
+    margin-left: 40px;
+    height: 20px;
+    color:black;
+    
+}
